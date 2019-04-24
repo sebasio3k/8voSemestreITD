@@ -1,0 +1,22 @@
+
+
+ - Gráfica  Pregunta  Encuesta Artesanos
+
+ - Nube de etiquetas – Pregunta  Encuesta Artesanos
+
+ - Frecuencia de Palabras - Pregunta  Encuesta Artesanos
+
+
+
+ - Gráfica Pastel Pregunta  Encuesta Local
+
+ - Nube de etiquetas – Pregunta  Encuesta Local
+
+ - Frecuencia de Palabras - Pregunta  Encuesta Local
+
+
+ - Gráfica  Pregunta  Encuesta Turistas
+
+ - Nube de etiquetas – Pregunta  Encuesta Local Turistas
+
+ - Frecuencia de Palabras - Pregunta  Encuesta Turistas
